@@ -1,0 +1,4 @@
+create same file as main.go in assembly language (no specificiations because why. it does not matter to me at this point of time)
+clean my surroundings
+let this repo be as messy as thoughts in my head
+learn todo.txts markdowns maybe?
